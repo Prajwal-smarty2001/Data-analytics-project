@@ -20,7 +20,7 @@ If you don't wish to perform the data loading part, you can directly download th
 
 
 # ERD
-![alt text]()
+![alt text](https://github.com/Prajwal-smarty2001/Data-analytics-project/blob/main/RSVP-SQL_analysis/ERD.JPG?raw=true)
 
 ## Support
 Give a ⭐️ if you like this project!
